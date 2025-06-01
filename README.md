@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Kehinde-24
-- 👀 I’m interested in data analysis and turning data into meaningful insights
-- 🌱 I’m currently learning data analytic at Tugeddah with the goal of becoming a data professional 
-- 💞️ Open to collaborating on data related projects and real world problem solving
-- 📫 Connect with me on LinkedIn (https://www.linkedin.com/in/ayoadekehinde)
-‎- 😄 Pronouns: He/Him
+ 👋 Hi there, I'm Kehinde Ayoade (@Kehinde-24)
+‎
+‎## 🚀 About Me
+‎- I'm an aspiring Data Analyst currently learning at Tugeddah with the goal of becoming a top-tier data professional.
+‎- 🔎 Passionate about turning data into actionable insights  
+‎- 🌱 Currently improving my skills in Excel, Power BI, Python and SQL
+‎- 🤝 Looking to collaborate on data-related projects, dashboards, and real world case studies  
+‎- 🧠 Always learning and growing committed to continuous development  
+‎- ⚡ Fun fact: I love meeting new people and building great connections!
 
-- ⚡ Fun fact: I enjoy making new friends and building valuable connections
+‎‎## 📫 Connect with Me
+‎- LinkedIn - (https://www.linkedin.com/in/ayoadekehinde)  
+‎📍 Location: Ibadan, Nigeria  
+‎😄 Pronouns: He/Him
+‎
+‎## 🤝 Let's Collaborate!
+‎- I'm open to contributing to data analysis, visualization projects, and internships.  
+‎Feel free to connect, collaborate, or just say hi! 😊
 ‎
 
 <!---
