@@ -3,21 +3,20 @@
 ‎🚀 About Me
 
 - I'm an aspiring Data Analyst currently learning at Tugeddah with the goal of becoming a top-tier data professional.
-‎- 🔎 Passionate about turning data into actionable insights  
-‎- 🌱 Currently improving my skills in Excel, Power BI, Python and SQL
-‎- 🤝 Looking to collaborate on data-related projects, dashboards, and real world case studies  
-‎- 🧠 Always learning and growing committed to continuous development  
-‎- ⚡ Fun fact: I love meeting new people and building great connections!
+🔎 Passionate about turning data into actionable insights  
+🌱 Currently improving my skills in Excel, Power BI, Python and SQL
+🤝 Looking to collaborate on data-related projects, dashboards, and real world case studies  
+🧠 Always learning and growing committed to continuous development  
+⚡ Fun fact: I love meeting new people and building great connections!
 
 ‎‎📫 Connect with Me
-
-‎- LinkedIn - (https://www.linkedin.com/in/ayoadekehinde)  
+LinkedIn - (https://www.linkedin.com/in/ayoadekehinde)  
 ‎📍 Location: Ibadan, Nigeria  
 ‎😄 Pronouns: He/Him
 ‎
 ‎🤝 Let's Collaborate!
 
-‎- I'm open to contributing to data analysis, visualization projects, and internships.  
+‎I'm open to contributing to data analysis, visualization projects, and internships.  
 ‎Feel free to connect, collaborate, or just say hi! 😊
 ‎
 
